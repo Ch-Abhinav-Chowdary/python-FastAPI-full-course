@@ -1,0 +1,182 @@
+{
+  "P001": {
+    "name": "Rahul Sharma",
+    "city": "Hyderabad",
+    "age": 28,
+    "gender": "Male",
+    "height": 175,
+    "weight": 72,
+    "verdict": "Healthy"
+  },
+  "P002": {
+    "name": "Priya Reddy",
+    "city": "Bengaluru",
+    "age": 34,
+    "gender": "Female",
+    "height": 162,
+    "weight": 78,
+    "verdict": "Overweight"
+  },
+  "P003": {
+    "name": "Arjun Patel",
+    "city": "Ahmedabad",
+    "age": 45,
+    "gender": "Male",
+    "height": 170,
+    "weight": 91,
+    "verdict": "Obese"
+  },
+  "P004": {
+    "name": "Sneha Nair",
+    "city": "Kochi",
+    "age": 23,
+    "gender": "Female",
+    "height": 160,
+    "weight": 49,
+    "verdict": "Healthy"
+  },
+  "P005": {
+    "name": "Vikram Singh",
+    "city": "Jaipur",
+    "age": 39,
+    "gender": "Male",
+    "height": 180,
+    "weight": 84,
+    "verdict": "Overweight"
+  },
+  "P006": {
+    "name": "Ananya Das",
+    "city": "Kolkata",
+    "age": 31,
+    "gender": "Female",
+    "height": 165,
+    "weight": 58,
+    "verdict": "Healthy"
+  },
+  "P007": {
+    "name": "Karan Mehta",
+    "city": "Mumbai",
+    "age": 52,
+    "gender": "Male",
+    "height": 173,
+    "weight": 96,
+    "verdict": "Obese"
+  },
+  "P008": {
+    "name": "Meera Iyer",
+    "city": "Chennai",
+    "age": 26,
+    "gender": "Female",
+    "height": 158,
+    "weight": 46,
+    "verdict": "Underweight"
+  },
+  "P009": {
+    "name": "Rohan Verma",
+    "city": "Pune",
+    "age": 37,
+    "gender": "Male",
+    "height": 177,
+    "weight": 69,
+    "verdict": "Healthy"
+  },
+  "P010": {
+    "name": "Kavya Rao",
+    "city": "Visakhapatnam",
+    "age": 29,
+    "gender": "Female",
+    "height": 164,
+    "weight": 82,
+    "verdict": "Obese"
+  },
+  "P011": {
+    "name": "Aditya Joshi",
+    "city": "Nagpur",
+    "age": 41,
+    "gender": "Male",
+    "height": 169,
+    "weight": 63,
+    "verdict": "Healthy"
+  },
+  "P012": {
+    "name": "Pooja Kapoor",
+    "city": "Delhi",
+    "age": 33,
+    "gender": "Female",
+    "height": 168,
+    "weight": 74,
+    "verdict": "Overweight"
+  },
+  "P013": {
+    "name": "Nikhil Gupta",
+    "city": "Lucknow",
+    "age": 47,
+    "gender": "Male",
+    "height": 174,
+    "weight": 103,
+    "verdict": "Obese"
+  },
+  "P014": {
+    "name": "Aisha Khan",
+    "city": "Bhopal",
+    "age": 24,
+    "gender": "Female",
+    "height": 161,
+    "weight": 54,
+    "verdict": "Healthy"
+  },
+  "P015": {
+    "name": "Siddharth Rao",
+    "city": "Mysuru",
+    "age": 36,
+    "gender": "Male",
+    "height": 181,
+    "weight": 76,
+    "verdict": "Healthy"
+  },
+  "P016": {
+    "name": "Neha Mishra",
+    "city": "Indore",
+    "age": 42,
+    "gender": "Female",
+    "height": 159,
+    "weight": 88,
+    "verdict": "Obese"
+  },
+  "P017": {
+    "name": "Harish Kumar",
+    "city": "Vijayawada",
+    "age": 27,
+    "gender": "Male",
+    "height": 172,
+    "weight": 57,
+    "verdict": "Underweight"
+  },
+  "P018": {
+    "name": "Divya Menon",
+    "city": "Thiruvananthapuram",
+    "age": 30,
+    "gender": "Female",
+    "height": 167,
+    "weight": 61,
+    "verdict": "Healthy"
+  },
+  "P019": {
+    "name": "Aman Choudhary",
+    "city": "Chandigarh",
+    "age": 50,
+    "gender": "Male",
+    "height": 176,
+    "weight": 86,
+    "verdict": "Overweight"
+  },
+  "P020": {
+    "name": "Ritika Sinha",
+    "city": "Patna",
+    "age": 22,
+    "gender": "Female",
+    "height": 163,
+    "weight": 50,
+    "verdict": "Healthy"
+  }
+}

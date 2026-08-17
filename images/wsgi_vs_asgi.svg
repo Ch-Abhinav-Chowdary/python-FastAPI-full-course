@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="320">
+  <defs>
+    <marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto">
+      <path d="M0,0 L10,5 L0,10 Z" fill="#000" />
+    </marker>
+  </defs>
+  <rect x="20" y="40" width="260" height="220" fill="#FADBD8" stroke="#922B21" stroke-width="2" rx="10"/>
+  <text x="150" y="70" font-size="18" text-anchor="middle" fill="#922B21">WSGI (Flask style)</text>
+  <text x="150" y="100" font-size="14" text-anchor="middle" fill="#922B21">One request at a time</text>
+  <line x1="150" y1="120" x2="150" y2="180" stroke="#000" stroke-width="2" marker-end="url(#arrow)"/>
+  <text x="150" y="200" font-size="12" text-anchor="middle">Wait until request finishes before next</text>
+  <rect x="320" y="40" width="260" height="220" fill="#D6EAF8" stroke="#1B4F72" stroke-width="2" rx="10"/>
+  <text x="450" y="70" font-size="18" text-anchor="middle" fill="#1B4F72">ASGI (FastAPI style)</text>
+  <text x="450" y="100" font-size="14" text-anchor="middle" fill="#1B4F72">Many requests at once</text>
+  <line x1="390" y1="120" x2="390" y2="180" stroke="#000" stroke-width="2" marker-end="url(#arrow)"/>
+  <line x1="450" y1="120" x2="450" y2="180" stroke="#000" stroke-width="2" marker-end="url(#arrow)"/>
+  <line x1="510" y1="120" x2="510" y2="180" stroke="#000" stroke-width="2" marker-end="url(#arrow)"/>
+  <text x="450" y="200" font-size="12" text-anchor="middle">Handles many users without waiting</text>
+  <rect x="650" y="40" width="220" height="220" fill="#EBF5FB" stroke="#154360" stroke-width="2" rx="10"/>
+  <text x="760" y="70" font-size="14" text-anchor="middle" fill="#154360">Backend Server</text>
+  <text x="760" y="100" font-size="12" text-anchor="middle" fill="#154360">Receives requests and sends answers</text>
+</svg>

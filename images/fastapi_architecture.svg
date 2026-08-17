@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="320">
+  <rect x="20" y="40" width="200" height="100" fill="#D4E6F1" stroke="#1F618D" stroke-width="2" rx="10"/>
+  <text x="120" y="80" font-size="16" text-anchor="middle" fill="#1F618D">Frontend</text>
+  <text x="120" y="105" font-size="12" text-anchor="middle" fill="#1F618D">Browser / App</text>
+  <line x1="220" y1="90" x2="320" y2="90" stroke="#1F618D" stroke-width="3" marker-end="url(#arrow)"/>
+  <rect x="320" y="28" width="220" height="164" fill="#FCF3CF" stroke="#B7950B" stroke-width="2" rx="10"/>
+  <text x="430" y="60" font-size="16" text-anchor="middle" fill="#7D6608">FastAPI App</text>
+  <text x="430" y="90" font-size="12" text-anchor="middle" fill="#7D6608">Starlette + Pydantic</text>
+  <line x1="440" y1="140" x2="440" y2="220" stroke="#1F618D" stroke-width="3" marker-end="url(#arrow)"/>
+  <rect x="320" y="220" width="220" height="80" fill="#D5F5E3" stroke="#196F3D" stroke-width="2" rx="10"/>
+  <text x="430" y="255" font-size="16" text-anchor="middle" fill="#196F3D">Database</text>
+  <defs>
+    <marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto">
+      <path d="M0,0 L10,5 L0,10 Z" fill="#1F618D" />
+    </marker>
+  </defs>
+  <text x="630" y="40" font-size="12" fill="#000">FastAPI handles requests, validates data, and talks to a database.</text>
+</svg>
